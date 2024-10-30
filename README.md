@@ -1,4 +1,4 @@
-## Olá, meu nome é Vinicius!!👋
+## Olá, meu nome é Vinicius e sejam bem vindos ao meu GitHub!!👋
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vinissin._)
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://instagram.com/vinissin._)
 
